@@ -1,0 +1,11 @@
+version: 0.1.1
+files:
+  - url: https://github.com/Pixby-App/pixby-app.github.io/releases/download/v0.1.1/Pixby-0.1.1-arm64-mac.zip
+    sha512: kmyqoVqqiMgEdZHlf8/djk6Pb/jbVBPyuiXW9XWd2Tpdpvrq+dZWwJiyMGdtto+bloQTUdLNhnuLTDg4pzTslg==
+    size: 108221448
+  - url: https://github.com/Pixby-App/pixby-app.github.io/releases/download/v0.1.1/Pixby-0.1.1-arm64.dmg
+    sha512: jkAl/FACCTJH8c/QEp6T7vSrzLI8zD+N/iS+1nNC3t9ByVRDbEEQWJ3P4rZhfx36d7UvDEBX6zmnmw10MFANCw==
+    size: 112546526
+path: https://github.com/Pixby-App/pixby-app.github.io/releases/download/v0.1.1/Pixby-0.1.1-arm64-mac.zip
+sha512: kmyqoVqqiMgEdZHlf8/djk6Pb/jbVBPyuiXW9XWd2Tpdpvrq+dZWwJiyMGdtto+bloQTUdLNhnuLTDg4pzTslg==
+releaseDate: '2026-06-07T18:05:55.869Z'

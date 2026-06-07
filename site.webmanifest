@@ -1,0 +1,17 @@
+{
+  "name": "Pixby",
+  "short_name": "Pixby",
+  "lang": "ko-KR",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fbfffc",
+  "theme_color": "#8acfb2",
+  "icons": [
+    {
+      "src": "/assets/logo-pixby.png",
+      "sizes": "1200x1200",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

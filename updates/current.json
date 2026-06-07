@@ -1,0 +1,10 @@
+{
+  "version": "0.1.1",
+  "generatedAt": "2026-06-07T18:09:54.398Z",
+  "updateFeed": "https://pixby-app.github.io/updates/latest-mac.yml",
+  "release": "https://github.com/Pixby-App/pixby-app.github.io/releases/tag/v0.1.1",
+  "downloads": {
+    "dmg": "https://github.com/Pixby-App/pixby-app.github.io/releases/download/v0.1.1/Pixby-0.1.1-arm64.dmg",
+    "zip": "https://github.com/Pixby-App/pixby-app.github.io/releases/download/v0.1.1/Pixby-0.1.1-arm64-mac.zip"
+  }
+}
