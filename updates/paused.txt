@@ -1,0 +1,1 @@
+Pixby macOS downloads are paused until a Developer ID signed and notarized build is available.
