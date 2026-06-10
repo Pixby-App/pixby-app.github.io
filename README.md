@@ -22,13 +22,13 @@ PATH="/usr/local/bin:$PATH" npm run deploy:pages
 DMG/ZIP/blockmap 파일은 GitHub 일반 커밋 100MB 제한을 넘을 수 있으므로 GitHub Release asset으로 업로드합니다.
 
 ```bash
-gh release create v0.1.5 \
-  /Users/chungbok/Documents/GitHub/Pixby/release/Pixby-0.1.5-arm64.dmg \
-  /Users/chungbok/Documents/GitHub/Pixby/release/Pixby-0.1.5-arm64.dmg.blockmap \
-  /Users/chungbok/Documents/GitHub/Pixby/release/Pixby-0.1.5-arm64-mac.zip \
-  /Users/chungbok/Documents/GitHub/Pixby/release/Pixby-0.1.5-arm64-mac.zip.blockmap \
+gh release create v0.1.6 \
+  /Users/chungbok/Documents/GitHub/Pixby/release/Pixby-0.1.6-arm64.dmg \
+  /Users/chungbok/Documents/GitHub/Pixby/release/Pixby-0.1.6-arm64.dmg.blockmap \
+  /Users/chungbok/Documents/GitHub/Pixby/release/Pixby-0.1.6-arm64-mac.zip \
+  /Users/chungbok/Documents/GitHub/Pixby/release/Pixby-0.1.6-arm64-mac.zip.blockmap \
   --repo Pixby-App/pixby-app.github.io \
-  --title "Pixby v0.1.5"
+  --title "Pixby v0.1.6"
 ```
 
 ## 운영 원칙
