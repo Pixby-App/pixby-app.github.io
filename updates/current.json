@@ -1,11 +1,11 @@
 {
-  "version": "0.1.4",
-  "generatedAt": "2026-06-08T17:50:26.606Z",
+  "version": "0.1.5",
+  "generatedAt": "2026-06-10T15:59:18.107Z",
   "updateFeed": "https://pixby-app.github.io/updates/latest-mac.yml",
-  "release": "https://github.com/Pixby-App/pixby-app.github.io/releases/tag/v0.1.4",
-  "notarization": "skipped-temporary-ad-hoc",
+  "release": "https://github.com/Pixby-App/pixby-app.github.io/releases/tag/v0.1.5",
+  "notarization": "required",
   "downloads": {
-    "dmg": "https://github.com/Pixby-App/pixby-app.github.io/releases/download/v0.1.4/Pixby-0.1.4-arm64.dmg",
-    "zip": "https://github.com/Pixby-App/pixby-app.github.io/releases/download/v0.1.4/Pixby-0.1.4-arm64-mac.zip"
+    "dmg": "https://github.com/Pixby-App/pixby-app.github.io/releases/download/v0.1.5/Pixby-0.1.5-arm64.dmg",
+    "zip": "https://github.com/Pixby-App/pixby-app.github.io/releases/download/v0.1.5/Pixby-0.1.5-arm64-mac.zip"
   }
 }
